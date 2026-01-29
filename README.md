@@ -12,4 +12,4 @@ Steps to run:
 3. Select environment
 4. Run requests
 
--> Git commands used - git init - git add . - git commit -m "Initial commit" - git status - git push
+-> Git commands used - git init - git add . - git commit -m "Initial commit" - git status - git push - git merge <branch_name> - git checkout -b <branch_name>
