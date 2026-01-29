@@ -49,7 +49,7 @@ The following REST APIs were tested using Postman:
 
 1. **Clone the repository**
 2. **Import Postman collection**
-3. **Select environment**
+3. **Import environment variables json**
 4. **Run requests**
 
 
