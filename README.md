@@ -48,27 +48,10 @@ The following REST APIs were tested using Postman:
 ## Steps to Run the Project
 
 1. **Clone the repository**
-
-   ```bash
-   git clone <repository-url>
-   ```
-
 2. **Import Postman collection**
-
-   ```bash
-   postman <collection-file>
-   ```
-
 3. **Select environment**
-
-   ```bash
-   postman <environment-file>
-   ```
-
 4. **Run requests**
-   ```bash
-   postman <collection-file>
-   ```
+
 
 ## Git commands used
 
